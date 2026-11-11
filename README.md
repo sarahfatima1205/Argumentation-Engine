@@ -3,7 +3,7 @@
 Pure Python 3 (standard library only, nothing to install). Developed and tested on Python 3.11.
 
 ## Layout
-`README.md` and `REPORT.md` are in the repository root; **all code, tests, demo files and results are in `af_project/`**.
+`README.md`, `REPORT.md`, and the formatted LaTeX report source `REPORT.tex` are in the repository root; **all code, tests, demo files and results are in `af_project/`**. Compile the LaTeX report from the repository root with `pdflatex REPORT.tex` (run twice to populate references and the table of contents).
 
 ## Files (inside `af_project/`)
 | File | Content |
